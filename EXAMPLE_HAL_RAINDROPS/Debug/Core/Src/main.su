@@ -1,0 +1,5 @@
+main.c:61:6:raindrops_read	8	static
+main.c:95:5:main	8	static
+main.c:139:6:SystemClock_Config	88	static
+main.c:179:13:MX_GPIO_Init	40	static
+main.c:219:6:Error_Handler	4	static,ignoring_inline_asm
